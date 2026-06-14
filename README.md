@@ -9,4 +9,4 @@ My portfolio is a conversational AI product. Ask it anything:
 **[blackbook.dk](https://www.blackbook.dk/)**
 
 - Co-founder of [Valiyou](https://valiyou.com), an AI-driven sponsorship valuation platform
-- [LinkedIn](https://www.linkedin.com/in/jeppeslothcarlsen)
+- [LinkedIn](https://www.linkedin.com/in/jeppeslothcarlsen) · [X](https://twitter.com/Jeppe_Carlsen) · [DEV.to](https://dev.to/jeppe_sloth_carlsen)
